@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Teacher
+comment1.params=teacherId\ teacherName\ address\ workingType\ employmentStatus
+comment1.target=Teacher(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTeacherId()
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment4.params=
+comment4.target=java.lang.String\ getWorkingType()
+comment5.params=
+comment5.target=java.lang.String\ getEmploymentStatus()
+comment6.params=
+comment6.target=int\ getWorkingHours()
+comment7.params=newWorkingHours
+comment7.target=void\ setWorkingHours(int)
+comment8.params=
+comment8.target=void\ displayTeacherInfo()
+numComments=9
